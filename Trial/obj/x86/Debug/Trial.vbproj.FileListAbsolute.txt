@@ -1,0 +1,29 @@
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\Trial\bin\Debug\Trial.exe
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\Trial\bin\Debug\Trial.pdb
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\Trial\bin\Debug\Trial.xml
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\Trial\obj\x86\Debug\Trial.Form1.resources
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\Trial\obj\x86\Debug\Trial.Resources.resources
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\Trial\obj\x86\Debug\Trial.vbproj.GenerateResource.Cache
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\Trial\obj\x86\Debug\Trial.exe
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\Trial\obj\x86\Debug\Trial.xml
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\Trial\obj\x86\Debug\Trial.pdb
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Trial\Trial\obj\x86\Debug\Trial.exe
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Trial\Trial\obj\x86\Debug\Trial.xml
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Trial\Trial\obj\x86\Debug\Trial.pdb
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Trial\Trial\obj\x86\Debug\Trial.Form1.resources
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Trial\Trial\obj\x86\Debug\Trial.Resources.resources
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Trial\Trial\obj\x86\Debug\Trial.vbproj.GenerateResource.Cache
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Trial\Trial\bin\Debug\Trial.exe
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Trial\Trial\bin\Debug\Trial.pdb
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Trial\Trial\bin\Debug\Trial.xml
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Trial\Trial\obj\x86\Debug\Trial.Form2.resources
+E:\DARI DOC\Visual Studio 2010\Projects\Trial\Trial\obj\x86\Debug\Trial.exe
+E:\DARI DOC\Visual Studio 2010\Projects\Trial\Trial\obj\x86\Debug\Trial.xml
+E:\DARI DOC\Visual Studio 2010\Projects\Trial\Trial\obj\x86\Debug\Trial.pdb
+E:\DARI DOC\Visual Studio 2010\Projects\Trial\Trial\bin\Debug\Trial.exe
+E:\DARI DOC\Visual Studio 2010\Projects\Trial\Trial\bin\Debug\Trial.pdb
+E:\DARI DOC\Visual Studio 2010\Projects\Trial\Trial\bin\Debug\Trial.xml
+E:\DARI DOC\Visual Studio 2010\Projects\Trial\Trial\obj\x86\Debug\Trial.Form1.resources
+E:\DARI DOC\Visual Studio 2010\Projects\Trial\Trial\obj\x86\Debug\Trial.Form2.resources
+E:\DARI DOC\Visual Studio 2010\Projects\Trial\Trial\obj\x86\Debug\Trial.Resources.resources
+E:\DARI DOC\Visual Studio 2010\Projects\Trial\Trial\obj\x86\Debug\Trial.vbproj.GenerateResource.Cache
